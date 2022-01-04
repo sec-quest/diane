@@ -1,4 +1,4 @@
-#I am building neural network here
+#I am building neural network here.
 
 #! python3
 import numpy as np
